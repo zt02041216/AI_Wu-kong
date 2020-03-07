@@ -6,13 +6,13 @@
 
 （1）把搜狗拼音安装包放到家目录下：
 
-![1583557527441](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583557527441.png)
+![1583557527441](D:\1_Ub_Share\0_Ebook\4_AI聊天机器人\AI_Wu-kong\2_Linux下搜狗输入法安装.assets\1583557527441.png)
 
 （2）在当前终端位置运行：sudo dpkg -i sogoupinyin_2.3.1.0112_amd64
 
 运行后，发现提示少了一些依赖包，于是运行下面的命令：sudo apt-get -f install
 
-![1583557654466](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583557654466.png)
+![1583557654466](D:\1_Ub_Share\0_Ebook\4_AI聊天机器人\AI_Wu-kong\2_Linux下搜狗输入法安装.assets\1583557654466.png)
 
 
 
