@@ -1,2 +1,5 @@
-git config --global user.email "2659300990@qq.com"
-  git config --global user.name "zt02041216"
+# README
+建立这个电子书的初衷是
+把咱们学员学习时候遇到的一些问题总结一起
+给大家一些借鉴
+可以自己先试着解决问题

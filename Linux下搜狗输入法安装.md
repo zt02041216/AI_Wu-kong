@@ -1,29 +1,5 @@
 ## Ubuntu下的搜狗输入法安装教程
 
-**方法一：**
-
-（1）把搜狗拼音安装包放到家目录下：
-
-![1583557527441](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583557527441.png)
-
-
-
-（2）在当前终端位置运行：sudo dpkg -i sogoupinyin_2.3.1.0112_amd64
-
-运行后，发现提示少了一些依赖包，于是运行下面的命令：sudo apt-get -f install
-
-![1583557654466](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583557654466.png)
-
-这里由于之前已经运行过此命令，所以没有出现安装信息。如果是之前提示有依赖包没有安装，此时会出现安装信息。等安装完成之后，再运行一下命令：sudo dpkg -i sogoupinyin_2.3.1.0112_amd64
-
-此时就应该提示安装成功。
-
-​    重启电脑，搜狗输入法就能正常使用了。（Ctrl+空格   就可以换出搜狗输入法了）
-
-
-
-**方法二：**
-
 使用 Linux 最大的烦恼就是中文输入法了，但是在 Ubuntu 下面，这都不是事！搜狗拼音已经有 Ubuntu 版本 了，所以我们照样可以使用中文输入法。
 
 （1）在 Ubuntu 下打开搜狗输入法 Linux 版的官网（或Windows下下载然后放到Ubuntu）
