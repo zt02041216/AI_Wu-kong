@@ -8,15 +8,11 @@
 
  中文网址：http://nodejs.cn/download/
 
-通过 uname -a 命令查看到我的Linux系统位数是64位（备注：x86_64表示64位系统， i686 i386表示32位系统），如图
+通过 uname -a 命令查看到我的Linux系统位数是64位（备注：x86_64表示64位系统， i686 i386表示32位系统）
 
-![1583558068301](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583558068301.png)
+![](D:\1_Ub_Share\0_Ebook\4_AI聊天机器人\AI_Wu-kong\Linux下搭建git环境\1583558068301.png)
 
-因此下载64位node.js
-
-![1583558085388](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583558085388.png)
-
-
+![](D:\1_Ub_Share\0_Ebook\4_AI聊天机器人\AI_Wu-kong\Linux下搭建git环境\1583558085388.png)
 
 2、下载下来的tar文件上传到服务器并且解压，然后通过建立软连接变为全局；
 
@@ -36,7 +32,7 @@
 
 \# ln -s /home/linux/1_AI/node-v12.16.1-linux-x64/bin/node   /usr/local/bin/node
 
-![1583558304682](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583558304682.png)
+![](D:\1_Ub_Share\0_Ebook\4_AI聊天机器人\AI_Wu-kong\Linux下搭建git环境\1583558304682.png)
 
 4）最后一步检验nodejs是否已变为全局
 
@@ -52,11 +48,13 @@ npm install -g gitbook-cli
 
 \# ln -s /home/linux/1_AI/node-v12.16.1-linux-x64/bin/gitbook  /usr/local/bin/gitbook
 
-![1583558349463](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583558349463.png)然后查看gitbook版本，检查是否安装成功。
+![](D:\1_Ub_Share\0_Ebook\4_AI聊天机器人\AI_Wu-kong\Linux下搭建git环境\1583558349463.png)
+
+然后查看gitbook版本，检查是否安装成功。
 
 gitbook -V #查看gitbook版本  （有时候因为是第一次安装可能需要多等一会儿）
 
 成功：
 
-![1583558367218](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583558367218.png)
+![](D:\1_Ub_Share\0_Ebook\4_AI聊天机器人\AI_Wu-kong\Linux下搭建git环境\1583558367218.png)
 
