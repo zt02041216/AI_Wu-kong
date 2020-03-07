@@ -2,17 +2,16 @@
 
 * [ReadMe](README.md)
 
-* [Vmware°²×°¼°Ubuntu»·¾³´î½¨](Vmware°²×°¼°Ubuntu»·¾³´î½¨.md)
-* [Vmware°²×°½Ì³Ì](Vmware°²×°½Ì³Ì.md)
-* [Vmware°²×°Ê±¿ÉÄÜÓöµ½µÄÎÊÌâ](Vmware°²×°Ê±¿ÉÄÜÓöµ½µÄÎÊÌâ.md)
+* [Vmwareå®‰è£…åŠUbuntuç¯å¢ƒæ­å»º](Vmwareå®‰è£…åŠUbuntuç¯å¢ƒæ­å»º.md)
+* [Vmwareå®‰è£…æ•™ç¨‹](Vmwareå®‰è£…æ•™ç¨‹.md)
+* [Vmwareå®‰è£…æ—¶å¯èƒ½é‡åˆ°çš„é—®é¢˜](Vmwareå®‰è£…æ—¶å¯èƒ½é‡åˆ°çš„é—®é¢˜.md)
 
-* [Ubuntu´î½¨iso½Ì³Ì²½Öè½ØÍ¼](Ubuntu´î½¨iso½Ì³Ì²½Öè½ØÍ¼.md)
+* [Ubuntuæ­å»ºisoæ•™ç¨‹æ­¥éª¤æˆªå›¾](Ubuntuæ­å»ºisoæ•™ç¨‹æ­¥éª¤æˆªå›¾.md)
 
-* [vim¼°Vm-toolsÅäÖÃ](vim¼°Vm-toolsÅäÖÃ.md)
-* [Linux»ù±¾Ö¸Áî](Linux»ù±¾Ö¸Áî.md)
-* [UbuntuÏÂ¹²ÏíÎÄ¼ş¼Ğ´´½¨](UbuntuÏÂ¹²ÏíÎÄ¼ş¼Ğ´´½¨.md)
-* [LinuxÏÂËÑ¹·ÊäÈë·¨°²×°](LinuxÏÂËÑ¹·ÊäÈë·¨°²×°.md)
-* [LinuxÏÂÍøÂç»·¾³´î½¨](LinuxÏÂÍøÂç»·¾³´î½¨.md)
+* [vimåŠVm-toolsé…ç½®](vimåŠVm-toolsé…ç½®.md)
+* [LinuxåŸºæœ¬æŒ‡ä»¤](LinuxåŸºæœ¬æŒ‡ä»¤.md)
+* [Ubuntuä¸‹å…±äº«æ–‡ä»¶å¤¹åˆ›å»º](Ubuntuä¸‹å…±äº«æ–‡ä»¶å¤¹åˆ›å»º.md)
+* [Linuxä¸‹æœç‹—è¾“å…¥æ³•å®‰è£…](Linuxä¸‹æœç‹—è¾“å…¥æ³•å®‰è£….md)
+* [Linuxä¸‹ç½‘ç»œç¯å¢ƒæ­å»º](Linuxä¸‹ç½‘ç»œç¯å¢ƒæ­å»º.md)
 
-* [LinuxÏÂ´î½¨git»·¾³](LinuxÏÂ´î½¨git»·¾³.md)
-
+* [Linuxä¸‹æ­å»ºgitç¯å¢ƒ](Linuxä¸‹æ­å»ºgitç¯å¢ƒ.md)
