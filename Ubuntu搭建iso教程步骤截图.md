@@ -1,8 +1,10 @@
-重头开始搭建Ubuntu14.04环境需要一个.iso镜像。
+这篇教程是我以前写的ubuntu14.04的教程，这次咱们搭建的是16的。步骤一样差别不大
 
-咱们创客学院LV1-Day1,课后资料有，请你们自行下载；
+重头开始搭建Ubuntu16.04环境需要一个.iso镜像。
 
-如果链接失效，这边有一个备用云盘链接：https://pan.baidu.com/s/1PDHEZjYvzdcTY-S_FznLSA
+我已把链接发到群里请你们自行下载；
+
+如果链接失效，这边有一个备用云盘链接：链接: https://pan.baidu.com/s/10XvLFE1VFJyYz74CnHHaGA 提取码: djra
 
 下载这个.iso镜像放到一个文件夹下（建议不要下载到C盘。请在**除了C盘**以外的其他盘单独建一个文件夹来专门存放这个环境）
 
@@ -24,7 +26,7 @@
 
 <img src="Ubuntu搭建iso教程步骤截图.assets/image-20200116153423159.png" alt="image-20200116153423159" style="zoom:80%;" />
 
-5、Linux-ubuntu-下一步   （这一步，如果你是搭建64位的话，可以选择Ubuntu64，但是创客学院使用的是32位的，所以此时选择ubuntu就可）
+5、Linux-ubuntu-下一步   （这一步，如果你是搭建64位的话，可以选择Ubuntu64，本次项目是使用的是64位的，所以此时选择ubuntu 64位就可   截图是以前的没更新，请自己更改选择ubuntu  64）
 
 <img src="Ubuntu搭建iso教程步骤截图.assets/image-20200116153637849.png" alt="image-20200116153637849" style="zoom:80%;" />
 
