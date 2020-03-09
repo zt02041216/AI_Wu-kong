@@ -1,14 +1,12 @@
-两种的方法：
+两种的方法：（这是我以前写的关于ubuntu14的搭建步骤，现在咱们使用ubuntu16的，步骤一样。）
 
-1、简单方法：在下下一章Ubuntu环境搭建视频版里面说了。下载《懒汉版ubuntu环境》，这个懒汉版环境我们创客学院搭建好的环境，很简单很方便，可以直接使用（特别推荐使用创客学院课后资料里面的懒汉版ubuntu环境）。
+1、简单方法：懒汉版ubuntu环境）。
 
-如果课后资料下载不了。可以使用备用下载地址：https://pan.baidu.com/s/1GJJfg78usDNsodkGA0v-OQ
-
-![image-20200116143938699](Ubuntu搭建教程步骤截图.assets/image-20200116143938699.png)
+下载地址：https://pan.baidu.com/s/1fFtCnteIrCJEhJHVbNxYrA
 
 请尽量不要把压缩包放到C盘，专门在D盘或者其它盘创建一个文件夹来存放环境，且路径尽量没有中文字符。
 
-（1）、右键压缩包，解压到文件夹，![image-20200116144939094](Ubuntu搭建教程步骤截图.assets/image-20200116144939094.png)
+（1）、右键压缩包，解压到文件夹，!![1583745603148](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1583745603148.png)
 
 （2）、双击打开虚拟机（前提：虚拟机必须在属性-兼容性-中设置以管理员身份运行）
 
